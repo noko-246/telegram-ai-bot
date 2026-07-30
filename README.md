@@ -4,7 +4,7 @@ A Telegram bot created at rubenlagus/TelegramBots. okHTTP was used to send reque
 
 <h3>What is needed to send Http requests</h3>
  # API_KEY - is a unique key for authorization, passed in the Authorization header. 
- To get it, you need to register on the official <a href="https://mistral.ai/">website</a>
+ To get it, you need to register on the official <a href="https://mistral.ai/">website</a></br>
  # MODEL - you can view the model you want to use on the <a href="https://docs.mistral.ai/models/overview">website.</a>
 
 All requests related to the transmission of AI messages are sent to: https://api.mistral.ai/v1/chat/completions
